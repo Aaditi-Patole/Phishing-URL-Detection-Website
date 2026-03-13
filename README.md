@@ -9,7 +9,8 @@ Website Link: https://phishing-detection-f1wa.onrender.com
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage](screenshots/Homepage.png.png)(screenshots/homepage2.png))
+![Homepage](screenshots/Homepage.png.png)(screenshots/Homepage2.png.png))
+
 
 ### Prediction Result
 ![Prediction Result](screenshots/result.png)
