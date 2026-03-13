@@ -3,7 +3,7 @@
 A machine learning-based web application that detects whether a URL is legitimate or a phishing attempt.  
 The system analyzes URL features and predicts the likelihood of the URL being malicious using a trained ML model.
 
-## Live Demo
+## 🚀 Live Demo
 Website Link: https://phishing-detection-f1wa.onrender.com
 
 ## 📸 Screenshots
@@ -24,7 +24,7 @@ Website Link: https://phishing-detection-f1wa.onrender.com
 ![Statistical Analysis](screenshots/AnalysisChart.png.png)
 
 
-## Features
+## ✨ Features
 
 - Detects phishing URLs using a trained Machine Learning model
 - Extracts important URL-based features for prediction
@@ -32,7 +32,7 @@ Website Link: https://phishing-detection-f1wa.onrender.com
 - Simple and user-friendly UI
 - Fast classification of URLs
 
-## Tech Stack
+## 🛠 Tech Stack
 
 Frontend
 - HTML
@@ -60,7 +60,7 @@ Machine Learning
 4. The model predicts whether the URL is **Safe** or **Phishing**.
 5. The result is displayed instantly on the webpage.
 
-## Installation
+## ⚙️ Installation
 
 Clone the repository
 ```bash
