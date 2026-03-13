@@ -50,24 +50,20 @@ Machine Learning
 Clone the repository
 ```bash
 git clone https://github.com/yourusername/Phishing-URL-Detection-Website.git
-```bash
 
 Navigate to the folder
-```bash
+
 cd Phishing-URL-Detection-Website
-```bash
+
 
 Install dependencies
-```bash
+
 pip install -r requirements.txt
-```bash
 
 Run the application
-```bash
+
 python app.py
-```bash
 
 Open in browser
-```bash
+
 http://localhost:5000
-```bash
