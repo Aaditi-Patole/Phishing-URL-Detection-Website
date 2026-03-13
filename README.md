@@ -47,12 +47,12 @@ Machine Learning
 - NumPy
 - Pandas
 
-## Model Performance
+## 📈 Model Performance
 
 - Precision: **97%**
 - High accuracy in detecting malicious URLs
 
-## How It Works
+## 📝 How It Works
 
 1. User enters a URL in the web interface.
 2. The system extracts important features from the URL.
