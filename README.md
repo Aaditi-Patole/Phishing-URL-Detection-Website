@@ -65,7 +65,7 @@ Machine Learning
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Phishing-URL-Detection-Website.git
+git clone https://github.com/Aaditi-Patole/Phishing-URL-Detection-Website.git
 ```
 
 ### 2️⃣ Navigate to the project directory
