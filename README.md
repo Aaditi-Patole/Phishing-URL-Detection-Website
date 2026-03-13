@@ -62,23 +62,35 @@ Machine Learning
 
 ## ⚙️ Installation
 
-Clone the repository
+### 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/yourusername/Phishing-URL-Detection-Website.git
+```
 
-Navigate to the folder
+### 2️⃣ Navigate to the project directory
 
+```bash
 cd Phishing-URL-Detection-Website
+```
 
+### 3️⃣ Install required dependencies
 
-Install dependencies
-
+```bash
 pip install -r requirements.txt
+```
 
-Run the application
+### 4️⃣ Run the application
 
+```bash
 python app.py
+```
 
-Open in browser
+### 5️⃣ Open the application in your browser
 
+```
 http://localhost:5000
+```
+
+
+
