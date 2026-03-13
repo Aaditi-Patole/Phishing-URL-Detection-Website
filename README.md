@@ -20,7 +20,7 @@ Website Link: https://phishing-detection-f1wa.onrender.com
 ## Performance Analysis
 ![Performance Analysis](screenshots/Performance.png.png)
 
-## Analysis Chart
+## Statistical Analysis
 ![Statistical Analysis](screenshots/AnalysisChart.png.png)
 
 
